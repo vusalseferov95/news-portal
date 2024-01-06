@@ -1,0 +1,47 @@
+.flex {
+    display: flex;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.gap16 {
+    gap: 16px;
+}
+
+.gap27 {
+    gap: 27px;
+}
+
+.pt-16 {
+    padding-top: 16px;
+}
+
+.pt-24 {
+    padding-top: 24px;
+}
+
+.pt-64 {
+    padding-top: 64px;
+}
+
+.pt-111 {
+    padding-top: 111px;
+}
+
+.fs-30 {
+    font-size: 30px;
+}
+
+.fw-600 {
+    font-weight: 600;
+}
